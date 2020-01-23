@@ -7,7 +7,7 @@ namespace HelloWorld_
         static void Main(string[] args)
         {
             //Pause to display Hello World!
-            Console.WriteLine("Press any ket to continue...");
+            Console.WriteLine("Press any key to continue...");
             Console.WriteLine("Hello World!");
             Console.ReadKey(true);
         }
